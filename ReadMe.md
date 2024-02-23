@@ -7,11 +7,11 @@ _Clases:_
     Bicicleta 
     Camion
     Factory
-    *(Factory de las instancias de las clases)*
+   *(Factory de las instancias de las clases)*
 _Interfaz:_
     
     InterComun
-    *(Define el comportamiento de los métodos comunes)*
+   *(Define el comportamiento de los métodos comunes)*
 
 
 
