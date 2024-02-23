@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Camion implements InterComun{
     Scanner sc = new Scanner(System.in);
+    
     @Override
     public float costeTotal(Integer cod_Postal) {
         

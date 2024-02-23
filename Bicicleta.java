@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Bicicleta implements InterComun{
     Scanner sc = new Scanner(System.in);
     public Bicicleta(){
-    
     }
     @Override
     public float costeTotal(Integer cod_Postal) {
@@ -25,6 +24,7 @@ public class Bicicleta implements InterComun{
         }
         return costeTotal;
     }
+    
     
     @Override
     public Integer tipoEmbalaje(float x, float y, float z, float peso) {
